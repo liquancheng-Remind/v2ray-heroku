@@ -7,8 +7,8 @@
             "description": "V2Ray UUID",
             "value": "66445386-803f-414c-89f6-8d9cd9220fb5"
         },
-        "alterId": {
-            "description": "alterId",
+        "ALTERID": {
+            "description": "V2Ray ALTERID",
             "value": "64"
         }
     },
